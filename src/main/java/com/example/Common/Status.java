@@ -1,0 +1,5 @@
+package com.example.Common;
+
+public enum Status {
+    WAIT,OUT_OF_FOOD, STORE_ACCEPT_ORDER, DRIVER_ACCEPT_ORDER,DRIVER_ARRIVED,DRIVER_DELIVERED,ORDER_END
+}
